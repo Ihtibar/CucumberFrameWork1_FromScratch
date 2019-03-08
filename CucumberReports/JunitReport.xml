@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="4" tests="8" time="64.247837">
+<testcase classname="Testing searches" name="Scenario Template:  Google Search" time="7.336629">
+<system-out><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'apple' in search box............................................passed
+And Close browser...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing searches" name="Scenario Template:  Google Search 2" time="6.982462">
+<system-out><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'yangyu' in search box...........................................passed
+And Close browser...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing searches" name="Scenario Template:  Google Search 3" time="6.759485">
+<system-out><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'iphone' in search box...........................................passed
+And Close browser...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing searches" name="Scenario Template:  Google Search 4" time="6.760135">
+<system-out><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'Rayisa' in search box...........................................passed
+And Close browser...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing searches" name="xxxxx" time="17.213614">
+<skipped><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter "apple" in the new Search box.....................................passed
+* Close Browser.............................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Testing searches" name="xxxxx_2" time="5.425478">
+<skipped><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter "yagyu" in the new Search box.....................................passed
+* Close Browser.............................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Testing searches" name="xxxxx_3" time="8.557209">
+<skipped><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter "iphone" in the new Search box....................................passed
+* Close Browser.............................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Testing searches" name="xxxxx_4" time="5.212825">
+<skipped><![CDATA[Given Environment ready.....................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter "Rayisa" in the new Search box....................................passed
+* Close Browser.............................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>

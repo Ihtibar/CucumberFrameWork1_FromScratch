@@ -1,0 +1,247 @@
+[
+  {
+    "source": "Close browser",
+    "steps": [
+      {
+        "name": "Close browser",
+        "aggregatedDurations": {
+          "average": 0.083406274,
+          "median": 0.082784719
+        },
+        "durations": [
+          {
+            "duration": 0.085920336,
+            "location": "Features/Search.feature:11"
+          },
+          {
+            "duration": 0.082841276,
+            "location": "Features/Search.feature:11"
+          },
+          {
+            "duration": 0.082728163,
+            "location": "Features/Search.feature:11"
+          },
+          {
+            "duration": 0.082135321,
+            "location": "Features/Search.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Environment ready",
+    "steps": [
+      {
+        "name": "Environment ready",
+        "aggregatedDurations": {
+          "average": 0.889146663,
+          "median": 1.187026225
+        },
+        "durations": [
+          {
+            "duration": 1.765604958,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 1.408757119,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 1.205731059,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 1.191724763,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 1.182327687,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 0.121823431,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 0.11974958,
+            "location": "Features/Search.feature:5"
+          },
+          {
+            "duration": 0.117454712,
+            "location": "Features/Search.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "go to {string} website",
+    "steps": [
+      {
+        "name": "go to \u0027https://www.google.com\u0027 website",
+        "aggregatedDurations": {
+          "average": 3.387349379,
+          "median": 3.389680139
+        },
+        "durations": [
+          {
+            "duration": 3.392482522,
+            "location": "Features/Search.feature:9"
+          },
+          {
+            "duration": 3.389459573,
+            "location": "Features/Search.feature:9"
+          },
+          {
+            "duration": 3.377554719,
+            "location": "Features/Search.feature:9"
+          },
+          {
+            "duration": 3.389900705,
+            "location": "Features/Search.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "go to \u0027https://www.amazon.com\u0027 website",
+        "aggregatedDurations": {
+          "average": 5.901101506,
+          "median": 4.709870636
+        },
+        "durations": [
+          {
+            "duration": 10.854715,
+            "location": "Features/Search.feature:32"
+          },
+          {
+            "duration": 4.036174289,
+            "location": "Features/Search.feature:32"
+          },
+          {
+            "duration": 5.383566984,
+            "location": "Features/Search.feature:32"
+          },
+          {
+            "duration": 3.329949751,
+            "location": "Features/Search.feature:32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Enter {string} in search box",
+    "steps": [
+      {
+        "name": "Enter \u0027apple\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.089727642,
+          "median": 2.089727642
+        },
+        "durations": [
+          {
+            "duration": 2.089727642,
+            "location": "Features/Search.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027yangyu\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.101115318,
+          "median": 2.101115318
+        },
+        "durations": [
+          {
+            "duration": 2.101115318,
+            "location": "Features/Search.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027iphone\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.09325487,
+          "median": 2.09325487
+        },
+        "durations": [
+          {
+            "duration": 2.09325487,
+            "location": "Features/Search.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027Rayisa\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.095820036,
+          "median": 2.095820036
+        },
+        "durations": [
+          {
+            "duration": 2.095820036,
+            "location": "Features/Search.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "enter {string} in the new Search box",
+    "steps": [
+      {
+        "name": "enter \"apple\" in the new Search box",
+        "aggregatedDurations": {
+          "average": 5.175635923,
+          "median": 5.175635923
+        },
+        "durations": [
+          {
+            "duration": 5.175635923,
+            "location": "Features/Search.feature:33"
+          }
+        ]
+      },
+      {
+        "name": "enter \"yagyu\" in the new Search box",
+        "aggregatedDurations": {
+          "average": 1.26727316,
+          "median": 1.26727316
+        },
+        "durations": [
+          {
+            "duration": 1.26727316,
+            "location": "Features/Search.feature:33"
+          }
+        ]
+      },
+      {
+        "name": "enter \"iphone\" in the new Search box",
+        "aggregatedDurations": {
+          "average": 3.053704808,
+          "median": 3.053704808
+        },
+        "durations": [
+          {
+            "duration": 3.053704808,
+            "location": "Features/Search.feature:33"
+          }
+        ]
+      },
+      {
+        "name": "enter \"Rayisa\" in the new Search box",
+        "aggregatedDurations": {
+          "average": 1.765223589,
+          "median": 1.765223589
+        },
+        "durations": [
+          {
+            "duration": 1.765223589,
+            "location": "Features/Search.feature:33"
+          }
+        ]
+      }
+    ]
+  }
+]
